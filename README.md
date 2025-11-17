@@ -6,14 +6,14 @@ A secondary table, publishers, is added to normalize the schema and improve data
 
 The main objective of this project is to transform raw book data into meaningful insights that can support business decision-making. Through SQL queries, the system answers essential business questions such as:
 
-Which books sell well or have high demand
+Which books sell well or have high demand?
 
-How pricing influences availability
+How pricing influences availability?
 
-Which categories are most popular
+Which categories are most popular?
 
-How customer reviews relate to price and stock
+How customer reviews relate to price and stock?
 
-How publishers contribute to inventory
+How publishers contribute to inventory?
 
 This project demonstrates skills in data retrieval, aggregation, subqueries, CASE expressions, JOINs, updates, deletes, and schema normalization.
